@@ -1,8 +1,6 @@
 // ==========================================
 // Created: September 16, 2016
-// Sheila Doherty
-// Homework Assignment #1
-// Instructor: Elizabeth Boese
+// Homework Assignment #2
 // Description: Linked List Fun
 // ==========================================
 
